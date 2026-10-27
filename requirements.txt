@@ -1,0 +1,14 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+streamlit>=1.37
+opencv-python-headless
+torch
+torchvision
+ultralytics>=8.2
+lap
+numpy
+pandas
+matplotlib
+requests
+streamlit-webrtc
+av
+# desarrollo local: pip install pytest
